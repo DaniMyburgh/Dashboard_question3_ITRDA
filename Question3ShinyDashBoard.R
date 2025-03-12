@@ -5,7 +5,7 @@ library(dplyr)
 library(tidyr)
 
 # Here is where I have loaded the code 
-grad_survey_cleaned <-read.csv("/Users/Dani-myburgh/Downloads/graduate_survey_dashboard.csv")
+grad_survey_cleaned <- read.csv("graduate_survey_dashboard.csv")
  
 
 # Here is where I process and prepare the data for visualization
